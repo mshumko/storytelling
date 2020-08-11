@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/mapbox/streets-v11',
-    accessToken: 'YOUR_ACCESS_TOKEN',
+    style: 'mapbox://styles/mapbox/outdoors-v11',
+    accessToken: 'pk.eyJ1IjoibXNodW1rbyIsImEiOiJja2RwMGNxbmwwcjg3Mnpta2V1anZ5bWFkIn0.5swSMltP9giYH0qkasgOMw',
     showMarkers: true,
     theme: 'light',
     alignment: 'left',
